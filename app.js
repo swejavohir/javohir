@@ -1,0 +1,1 @@
+let sen = document.createElement ("h1")
